@@ -109,7 +109,7 @@ Inside `index.js`, the code is organized into sections:
 
 ## Author
 
-Your Name ([@your-username](https://github.com/your-username))
+Your Name ([@Dom Sunga](https://github.com/drsunga))
 
 ## License
 
